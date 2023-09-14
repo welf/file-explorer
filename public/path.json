@@ -1,0 +1,30 @@
+[
+  {
+    "name": "src",
+    "type": "folder",
+    "children": [
+      {
+        "name": "data",
+        "type": "folder",
+        "children": [
+          {
+            "name": "index.js",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "index.js",
+        "type": "file"
+      },
+      {
+        "name": "index.css",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "state.ts",
+    "type": "file"
+  }
+]
