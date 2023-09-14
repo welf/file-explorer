@@ -18,8 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots
 
-![screenshot-1](public/screenshot-1.png)
-
-![screenshot-2](public/screenshot-2.png)
-
-![screenshot-3](public/screenshot-3.png)
+<img src="public/screenshot-1.png" width=200>
+<img src="public/screenshot-2.png" width=200>
+<img src="public/screenshot-3.png" width=200>
